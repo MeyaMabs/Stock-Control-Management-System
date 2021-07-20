@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Stock Control Management System", "Stock Control Management System\Stock Control Management System.vbproj", "{C2D9F834-9C32-4522-82AF-242411FC9319}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Stock Control", "Stock Control\Stock Control.vdproj", "{F6750359-1217-48A7-ADBC-7348D6FA225C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{C2D9F834-9C32-4522-82AF-242411FC9319}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2D9F834-9C32-4522-82AF-242411FC9319}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2D9F834-9C32-4522-82AF-242411FC9319}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6750359-1217-48A7-ADBC-7348D6FA225C}.Debug|Any CPU.ActiveCfg = Debug
+		{F6750359-1217-48A7-ADBC-7348D6FA225C}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
